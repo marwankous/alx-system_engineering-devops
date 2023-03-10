@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --from=guillaume root "guillaume"
+chown --from=guillaume root "betty"
